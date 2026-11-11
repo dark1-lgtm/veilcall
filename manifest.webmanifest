@@ -1,0 +1,10 @@
+{
+  "name": "VeilCall — Voice Effects Calls",
+  "short_name": "VeilCall",
+  "description": "Private browser-based calls with original real-time voice effects.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090b12",
+  "theme_color": "#090b12",
+  "orientation": "portrait"
+}
